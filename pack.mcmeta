@@ -1,6 +1,9 @@
 {
-	"pack": {
-		"pack_format": 64,
-        "description": "Make Fireflies appear like they were intended to be"
-	}
+  "pack": {
+    "pack_format": 69,
+    "supported_formats": [0, 2147483647],
+    "min_format": 0,
+    "max_format": 2147483647,
+    "description": "Make Fireflies appear like they were intended to be"
+  }
 }
