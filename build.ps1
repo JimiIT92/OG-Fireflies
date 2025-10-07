@@ -1,6 +1,6 @@
 #Variables
 $VERSION = "1.0"
-$MC_VERSION = "1.21.9"
+$MC_VERSION = "1.21.10"
 $NAME = "OG Fireflies"
 $PACK_EXTENSION = "v"+$VERSION+"-"+$MC_VERSION+".zip"
 $RESOURCE_PACK_PATH = $NAME+"-"+$PACK_EXTENSION
